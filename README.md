@@ -1,4 +1,4 @@
 # zeferazo
 IT252cloud9
 
-I love 👪: 🏋️‍♂️:, and 🎮:.
+I love 👪 🏋️‍♂️, and 🎮.
