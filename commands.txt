@@ -1,0 +1,14 @@
+Create git account.
+Create new repository by clicking the plus sign in the top right corner. Name your repository.
+Open the Cloud9 environment. type 'git --status' in the cli to see if you have git installed in your environment.
+Clone your repository you just created by going to the main page for it and selecting the Code drop down and selecting the copy icon.
+Head back to the Cloud9 cli and typing 'git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY'
+Add a new file to the cli by pressing the green plus sign.
+enter the desired text in the new file then save it in your repositiry folder.
+Once you are done adding information to the file, save as, making sure you select the folder path of your repository.
+On the cli 'cd' into the repository folder
+Type 'git status' to see the files you just added
+Type 'git add --all' to add all the files in the filder to the staging que
+Type 'git status' to see all the files that are staged and awaiting to be pushed
+Type 'git commit -m "Added information about birds, insects, and reptiles."' to commit the changes
+Then finally type 'git push' to push it to your git repository
